@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "changelog": "Phiên bản đầu tiên ra mắt chính thức.",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.1.0/Tikz-Physics-1.1.0-FREE-Setup.exe",
-  "checksum_sha256": "3345f1aea4a6645acffbb18b36d19e563736be8e1b408ba794686075449d8f67",
+  "version": "1.2.0",
+  "changelog": "Mũi tên Đoạn+Góc, mặt phẳng nghiêng 3 anchor, bắt điểm/bắt neo trên toolbar, chọn thư mục xuất file tùy ý.",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.2.0/Tikz-Physics-1.2.0-FREE-Setup.exe",
+  "checksum_sha256": "1f43f50dbf2d7d3e34a2500376262ac2dd59744ffe45dc43c8013a29b87c6d2c",
   "required": false
 }
