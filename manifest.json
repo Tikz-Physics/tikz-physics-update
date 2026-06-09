@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "changelog": "Fix màu điểm trên canvas, màu mặc định điểm đổi thành red!50!black, thu nhỏ điểm, fix toolbar Màu tô/Màu nét cho Mặt phẳng nghiêng, fix bắt anchor, fix kích cỡ điện trở/biến trở.",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.3.0/Tikz-Physics-1.3.0-FREE-Setup.exe",
-  "checksum_sha256": "31d37b7305fb6686dd44565da2f20afa056eaba83d331aaa957d62ceb6826a45",
+  "version": "1.4.0",
+  "changelog": "Thêm nhóm Quang học, Biến trở con chạy, Dây gấp khúc riêng 3-anchor, dừng vẽ dây bằng Enter/double-click, fix nhãn đèn.",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.4.0/Tikz-Physics-1.4.0-FREE-Setup.exe",
+  "checksum_sha256": "F7E7D2113C0482A7BCD46795E07AC99AD6403C4191E42D036C8BDB4A1F773700",
   "required": false
 }
