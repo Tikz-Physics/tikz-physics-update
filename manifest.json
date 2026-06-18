@@ -1,8 +1,7 @@
 {
-  "version": "1.5.0",
-  "changelog": "Tính năng: Lớp hiển thị (z-order) cho từng đối tượng; Bảng nhập ký hiệu toán học (cho người không thuộc LaTeX) + nút trên toolbar; Khóa vị trí ảnh; Lưới đồ thị chỉnh kích thước; chọn đơn vị góc cho hàm số. Sửa lỗi: nhãn Chữ cái không ra code, nhãn anchor neo sai tọa độ, vùng tô đè lên hình, crash khi kéo lưới. Bảo mật: vá giả mạo Pro, chống vặn đồng hồ, auto-update ký số Ed25519.",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.5.0/Tikz-Physics-1.5.0-FREE-Setup.exe",
-  "checksum_sha256": "a2115c371282b96e3540889c96a88d17f375701e24392cedab12b8c0b4a6a61e",
-  "required": false,
-  "signature": "00c828fc991da52b0452cd133b19e301d2ac74f79014f57e5a6ef57f62ce1cbcf16c0513d662f6cc12feda3ea2ad8134836a158b768fb82770a54bf7e0729d03"
+  "version": "1.6.0",
+  "changelog": "Vá + Sửa lỗi",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.6.0/Tikz-Physics-1.6.0-FREE-Setup.exe",
+  "checksum_sha256": "f828b8af17b87d09d0dc62ffed52094872c2fa9846f499bc0a7959fdb26bdb10",
+  "required": false
 }
