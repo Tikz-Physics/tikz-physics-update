@@ -1,8 +1,7 @@
 {
-  "version": "1.6.1",
-  "changelog": "Vá + Sửa lỗi",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.6.1/Tikz-Physics-1.6.1-FREE-Setup.exe",
-  "checksum_sha256": "47d25ed3a03dd0349fa349c8bee5455c5f0299d1c2f8b80bea889ba602de295a",
-  "required": true,
-  "signature": "cdb2570f82a46272e6eb3ce54a47a098013b16937cf837a9eb92ce7d82e24d34b449cd4b4547da287c0fd5f7f75df21c94cd9f940bd20843b20fe8375052750c"
+  "version": "1.7.0",
+  "changelog": "Nâng cấp tool \"Đồ thị\"",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.7.0/Tikz-Physics-1.7.0-FREE-Setup.exe",
+  "checksum_sha256": "d034f5da6f6d00a74ee3ff67336a2238d0ee46bf3907954f7fc897bd4b0cc678",
+  "required": false
 }
