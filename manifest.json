@@ -1,7 +1,8 @@
 {
-  "version": "1.7.0",
-  "changelog": "Nâng cấp tool \"Đồ thị\"",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.7.0/Tikz-Physics-1.7.0-FREE-Setup.exe",
-  "checksum_sha256": "d034f5da6f6d00a74ee3ff67336a2238d0ee46bf3907954f7fc897bd4b0cc678",
-  "required": false
+  "version": "1.8.0",
+  "changelog": "Nâng cấp tool \"Đường cong\" để vẽ hình thực tế",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.8.0/Tikz-Physics-1.8.0-FREE-Setup.exe",
+  "checksum_sha256": "951597ec2a741c501cddf0152fbe6fbc265f684c66ba85e902be85513f2b1818",
+  "required": true,
+  "signature": "3166f68ab4031c653a997e59da4621866ede709b2ae76d34d495010ce7c5372e3850077b331d24ea759f5b54adb501f0239871378edc6315cb344e96116f1601"
 }
