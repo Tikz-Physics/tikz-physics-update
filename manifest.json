@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.2",
   "changelog": "Sửa lỗi",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.9.0/Tikz-Physics-1.9.0-FREE-Setup.exe",
-  "checksum_sha256": "f5aaf047811edfcd3fe3f037cedec5682016e751cfbe57ac18d46dce212562ba",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.9.2/Tikz-Physics-1.9.2-FREE-Setup.exe",
+  "checksum_sha256": "ceb96622f8c2cfd4cf5367626ae3a42a1b6c2deef3f2ea389f9a167d4bc89f72",
   "required": true,
-  "signature": "d38d7850035cb17ed9ac780194ad68cb571cac4dce6e3184d29b76a71634e8ad131a04b2a9761197638c4e4baab11cae63a6fe94981c07685b23e2aae8ec0b08"
+  "signature": "0266079706ecb01fc55a01bcb2aa4d42bc85d93bc6358b4718f1df480beb67b428ffb2c46448d396c90dfb3a3434b26b09a2af8f031797a255729f48acf13104"
 }
