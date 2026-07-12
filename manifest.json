@@ -1,8 +1,8 @@
 {
-  "version": "1.9.2",
-  "changelog": "Sửa lỗi",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v1.9.2/Tikz-Physics-1.9.2-FREE-Setup.exe",
-  "checksum_sha256": "ceb96622f8c2cfd4cf5367626ae3a42a1b6c2deef3f2ea389f9a167d4bc89f72",
-  "required": true,
-  "signature": "0266079706ecb01fc55a01bcb2aa4d42bc85d93bc6358b4718f1df480beb67b428ffb2c46448d396c90dfb3a3434b26b09a2af8f031797a255729f48acf13104"
+  "version": "2.1.0",
+  "changelog": "Manim Studio PRO: xuất MP4/GIF và mã Scene kèm asset; hỗ trợ Part, kích thước video, nền giấy và ảnh chất lượng cao; bổ sung Hình học không gian; sửa xoay đoạn văn/khung, toolbar và độ ổn định xuất Manim.",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.1.0/Tikz-Physics-2.1.0-FREE-Setup.exe",
+  "checksum_sha256": "3f0cd9f1dd0e15a14e5a97bbe46057f105a6fdef8bfbae919acaa16a62c0f5e5",
+  "required": false,
+  "signature": "b28afd142f917d778a29451ae7665bb5723a2009cdc0152e6d8ec4846baa3565a663897b0d9a9775ebd122ba5bebc7c97bc209db4efce43be2983408bdcc2c01"
 }
