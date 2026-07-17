@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "changelog": "Manim Studio PRO: xuất MP4/GIF và mã Scene kèm asset; hỗ trợ Part, kích thước video, nền giấy và ảnh chất lượng cao; bổ sung Hình học không gian; sửa xoay đoạn văn/khung, toolbar và độ ổn định xuất Manim.",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.1.0/Tikz-Physics-2.1.0-FREE-Setup.exe",
-  "checksum_sha256": "3f0cd9f1dd0e15a14e5a97bbe46057f105a6fdef8bfbae919acaa16a62c0f5e5",
+  "version": "2.2.0",
+  "changelog": "Bảo mật: chữ ký số Ed25519 cho license, chống làm giả và chống dùng chung máy.",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.2.0/Tikz-Physics-2.2.0-FREE-Setup.exe",
+  "checksum_sha256": "54e1264cb0b9f23f5bdaa9db5c66b5ae12c6a77c5ce98549fd40c34aa9a56306",
   "required": false,
-  "signature": "b28afd142f917d778a29451ae7665bb5723a2009cdc0152e6d8ec4846baa3565a663897b0d9a9775ebd122ba5bebc7c97bc209db4efce43be2983408bdcc2c01"
+  "signature": "0f49ba86b8fd3514684790ac0e3bba1a5d5be5c638f6547396f825d49f87a7eb78fb1e3aec924d39e8f7d8952ee918899e7eb0407fabe805965759365f26c708"
 }
