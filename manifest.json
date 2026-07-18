@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "changelog": "Bảo mật: chữ ký số Ed25519 cho license, chống làm giả và chống dùng chung máy.",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.2.0/Tikz-Physics-2.2.0-FREE-Setup.exe",
-  "checksum_sha256": "54e1264cb0b9f23f5bdaa9db5c66b5ae12c6a77c5ce98549fd40c34aa9a56306",
-  "required": false,
-  "signature": "0f49ba86b8fd3514684790ac0e3bba1a5d5be5c638f6547396f825d49f87a7eb78fb1e3aec924d39e8f7d8952ee918899e7eb0407fabe805965759365f26c708"
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.2.1/Tikz-Physics-2.2.1-FREE-Setup.exe",
+  "checksum_sha256": "81eeb68808e193df6dc4e6897ef36728087accc793117e68f556f9af8905a7cc",
+  "required": true,
+  "signature": "693240cb21eef5a9ea3b71ba536d7127693a632f021254500aebe4ac1014ce5161e7612eb660758563c2c69dd28c05c00458b2e620ba72976f7984a7d8da380b"
 }
