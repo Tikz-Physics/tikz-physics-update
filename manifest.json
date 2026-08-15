@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0",
-  "changelog": "Nâng cấp AI hướng dẫn, Bổ sung thư viện hình thực tế",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.4.0/Tikz-Physics-2.4.0-FREE-Setup.exe",
-  "checksum_sha256": "22d546227fd46c4ea72ce79a0756082f3fbd0cff91ce6ed05c4d7cea8d55a677",
+  "version": "2.5.0",
+  "changelog": "Nâng cấp vẽ hình bằng AI",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.5.0/T-TikzManim-2.5.0-FREE-Setup.exe",
+  "checksum_sha256": "133e61c72c27b3c32400feadc85cd7151d00ccebe373982a92d90fa6a247f95e",
   "required": true,
-  "signature": "90b86d4d1f9fb0ba5c6c030d92c78e688bc6f8cf2ae14e9ce7a9179b2ce90e17645f2924fe2424b3086f95073834ba33820b99e85dfd4ba64f83c4d5c5f4bb0b"
+  "signature": "11b47051ab9ee8d1054a2d99335231b83c64a504b06dc3bee4c33894e70e39f7b9eba1676604c9edb909be5ecab6964b52de4a02c00d8c7007da94573d430300"
 }
