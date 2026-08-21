@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "changelog": "Tiếp tục nâng cấp AI",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.6.0/T-TikzManim-2.6.0-FREE-Setup.exe",
-  "checksum_sha256": "ccf82534d6e61a390fa2677df4583322ee01fbdfcd5e2478c5bdea58363dce1e",
+  "version": "2.6.1",
+  "changelog": "Tối ưu tính năng AI",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.6.1/T-TikzManim-2.6.1-FREE-Setup.exe",
+  "checksum_sha256": "5d99973750b6a8948801824f1b895f74aca4988ff0c9f3a43097e4c8a202ab30",
   "required": true,
-  "signature": "63c0bba915aad6f5c0483c7f158e175df2623a9268e6df97e0b4e6fe57b7591337cd5a302286b8333ccee715dd7b198f21e2a03e59f02956949e1ab00ece6709"
+  "signature": "7f30d9964c8295300e786446c03fae3b3ad3e09fbb782fee8d2da701039970ef2bb4b70632ca97b004801ac60eff59ee3695376c9838d17e72cfe0a7af782b0e"
 }
