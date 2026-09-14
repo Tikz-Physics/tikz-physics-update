@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0",
-  "changelog": "Bổ sung các công cụ Toán học",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.7.0/T-TikzManim-2.7.0-FREE-Setup.exe",
-  "checksum_sha256": "23e3be1a6745a96d4155147b050fa2040951a184f59e8a398861649cfab6b7f1",
+  "version": "2.8.0",
+  "changelog": "Bổ sung AI vẽ vòng tròn lượng giác, các hợp đồng hình học",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.8.0/T-TikzManim-2.8.0-FREE-Setup.exe",
+  "checksum_sha256": "aac17780e23a4f7dc201574a925f659f5d20bcb11f03a3e33aa5346092a38ec8",
   "required": true,
-  "signature": "2c1e301ed8acc3f9bbaba855e17e7dd87b519cc578a39d9e31bfa603f6e7ab84904bac23854ff9b5bfb6625018bcdd2c84b10a1191f852d552bbdfbbf88fe203"
+  "signature": "09f28a4b346e5da687b19d43cc55c13acd9d9dc56423ab467e4f1e257468891f7479b12a2d8fd273217b2fa83ae86694cf96d97c0f642e6aa5ac36dd3a227e09"
 }
