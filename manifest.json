@@ -1,8 +1,8 @@
 {
-  "version": "2.8.1",
-  "changelog": "Fix",
-  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.8.1/T-TikzManim-2.8.1-FREE-Setup.exe",
-  "checksum_sha256": "cabcdef7b2eaf5f05745326ca3c916e5143da384e1efe058b93e39b9bff47eca",
+  "version": "2.9.0",
+  "changelog": "Chỉ còn hai gói Free và Full (bỏ Dùng thử 7 ngày và Pro). Bản Full cần kết nối Internet ít nhất 14 ngày một lần; mất mạng quá hạn thì tạm khóa và tự mở lại khi có mạng, không cần nhập lại key. Vá lỗ giữ bản quyền khi chặn mạng.",
+  "download_url": "https://github.com/Tikz-Physics/Tikz-Physics-Releases/releases/download/v2.9.0/T-TikzManim-2.9.0-FREE-Setup.exe",
+  "checksum_sha256": "f0502c8f68c4bf03024c796d94195aaccee2d791b334ab0a3018aa368c337c74",
   "required": true,
-  "signature": "4633799a9357a45e95175a0d38466b2bcb25f6a4fe8dc04a5393b40338ab394d12bea4dd58d8b3fa532d462b009bc7ead451eced9ff0344edb607eb1b27dc402"
+  "signature": "72d2a3785883fe92d345895560af37ed5915ea64bc739cd4afb8e30cb2be28e3172035cb73c2d3f35c98088fe14552b0d9798ca73900e623e4e9e68d0665d901"
 }
